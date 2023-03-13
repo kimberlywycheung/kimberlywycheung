@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### :dizzy: About Me
 - 👩🏻‍💻 I'm a full-stack developer with an ex-Product background
 - 📖 I’m currently learning Python & Typescript
-- ⚡ You can probably find me dancing at a concert, traveling across the world, or eating soupy noodles  
+- ⚡ You can probably find me dancing at a concert, traveling across the world, or getting full on soupy noodles  
 
 <br/>  
 
