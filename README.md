@@ -30,7 +30,13 @@ Here are some ideas to get you started:
 
 <br/>  
 
-### 🌱 Recent Projects
+### 🌱 Current Projects
+- Focus || Front End Application <br>
+*A Chrome extension that serves as a productivity tool by preventing the user from loading distracting websites*
+- DailyAffirmations || Full Stack Application <br>
+*A mobile app that sends you daily positive affirmations to improve mental health*
+
+### 🪴 Recent Projects
 - [Sanctuary](https://github.com/orgs/SanctuarySystems/repositories) || Full Stack Application <br>
 *A social media mobile app for community-driven forums centered around therapeutic support*
 - [Techstyles Microserver](https://github.com/orgs/tech-styles-API/repositories) || Backend API <br>
