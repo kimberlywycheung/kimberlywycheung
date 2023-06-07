@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - **Focus** || Front End Application <br>
 *A Chrome extension that serves as a productivity tool by preventing the user from loading distracting websites*
 - **DailyAffirmations** || Full Stack Application <br>
-*A mobile app that sends you daily positive affirmations to improve mental health*
+*A mobile app that texts you daily positive affirmations to help improve mental health*
 
 ### 🪴 Recent Projects
 - **[Sanctuary](https://github.com/orgs/SanctuarySystems/repositories)** || Full Stack Application <br>
