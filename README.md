@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 *A mobile app that texts you daily positive affirmations to help improve mental health*
 
 ### 🪴 Recent Projects
+- **[Mood](https://mood-woad.vercel.app/)** || Full Stack Application <br>
+*Journaling app that leverages AI for mood analysis and tracking over time*
 - **[Sanctuary](https://github.com/orgs/SanctuarySystems/repositories)** || Full Stack Application <br>
 *A social media mobile app for community-driven forums centered around therapeutic support*
 - **[Techstyles Microserver](https://github.com/orgs/tech-styles-API/repositories)** || Backend API <br>
