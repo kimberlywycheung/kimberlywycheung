@@ -30,12 +30,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-### 🌱 Current Projects
-- **Focus** || Front End Application <br>
-*A Chrome extension that serves as a productivity tool by preventing the user from loading distracting websites*
-- **DailyAffirmations** || Full Stack Application <br>
-*A mobile app that texts you daily positive affirmations to help improve mental health*
-
 ### 🪴 Recent Projects
 - **[Mood](https://mood-woad.vercel.app/)** || Full Stack Application <br>
 *Journaling app that leverages AI for mood analysis and tracking over time*
@@ -45,6 +39,12 @@ Here are some ideas to get you started:
 *RESTful microservice api for ecommerce site*
 - **[Elevated Clothing](https://github.com/atelier-front-end/elevated)** || Front End Application <br>
 *Product detail page for an ecommerce site*
+
+### 🌱 Current Projects
+- **Focus** || Front End Application <br>
+*A Chrome extension that serves as a productivity tool by preventing the user from loading distracting websites*
+- **DailyAffirmations** || Full Stack Application <br>
+*A mobile app that texts you daily positive affirmations to help improve mental health*
 
 <br/>  
 
