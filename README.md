@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ### :dizzy: About Me
-- 👩🏻‍💻 I'm a full-stack developer, recovering product manager
+- 👩🏻‍💻 I'm a software engineer, recovering product manager
 - 📖 I’m currently learning Python & Typescript
 - ⚡ You can probably find me dancing at a concert, traveling across the world, or snacking on sour candy
 
